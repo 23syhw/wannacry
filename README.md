@@ -9,6 +9,8 @@ How to run:
 
 • Download the zipped folder, and then unzip it in your files.
 
+• Open the VBScript file. If that **does not work** then do the following:
+
 • Right click the WannaCry VBScript, click edit in notepad, then copy all the code there exactly how it is.
 
 • Close the notepad, delete the VBScript WannaCry file.
