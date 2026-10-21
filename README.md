@@ -1,7 +1,5 @@
-# WannaCry.exe
+# WannaCry Harmless Recreation
 ![Static Badge](https://img.shields.io/badge/Version-2.1-Green)
-
-### An accurate recreation of the infamous WannaCry.exe ransomware, made using VBScript and Powershell.
 
 
 > [!IMPORTANT]
